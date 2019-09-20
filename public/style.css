@@ -1,0 +1,30 @@
+body {
+    font-family: 'Lato', sans-serif;
+    background-image: linear-gradient(to left, lightcyan, lightblue);
+}
+
+.main {
+    text-align: center;
+    margin: auto;
+    padding: 100px 0;
+}
+
+.upload-btn-wrapper {
+    border-bottom: 4px solid lightgray;
+    border-right: 4px solid lightgray;
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+    padding: 10px;
+    margin: 15px;
+    cursor: pointer;
+}
+
+.btn {
+    border: 2px solid gray;
+    color: gray;
+    background-color: white;
+    padding: 8px 20px;
+    border-radius: 8px;
+    font-size: 20px;
+    font-weight: bold;
+}
